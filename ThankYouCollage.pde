@@ -1,3 +1,5 @@
+/* @pjs preload="background.png"; */
+
 PImage img;
 int value = 0;
 float x = 140;
